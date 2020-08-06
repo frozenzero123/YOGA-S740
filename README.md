@@ -1,7 +1,7 @@
 # YOGA-S740
 #hackintosh
 #Trying to install MacOS on YGAS740
-#Device Information
+#  Device Information
 #Equipment: yoga s740 (China version)
 #Graphics: Iris Plus940
 #CPU: i7 1065G7
@@ -11,8 +11,8 @@
 #BIOS: BYCN35WW
 #CFG lock: Disabled (changed)
 #DVMT: 64M (changed)
-#Can work now：
-#             sound card  wifi(ax201)  Bluetooth  
-#Can not work：
-#             graphics    touchpad
+#   Can work now：
+#sound card  wifi(ax201)  Bluetooth  
+#   Can not work：
+#graphics    touchpad
 #Hope everyone will work together to make it work！
