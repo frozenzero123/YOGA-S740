@@ -33,3 +33,7 @@ hackintosh
 |Sleep| AOAC ( not completely successful)|
 |Fn Keys| Brightness adjustment and key mapping|
 |More|。。。|
+
+
+## how to use
+Apply the file to the downloaded open core pkg
