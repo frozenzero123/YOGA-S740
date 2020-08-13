@@ -36,4 +36,4 @@
 
 
 ## 如何使用
-将文件套用到下载的OC模板
+将文件套用到下载的OC模板[OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
