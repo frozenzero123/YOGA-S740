@@ -36,4 +36,4 @@ hackintosh
 
 
 ## how to use
-Apply the file to the downloaded open core pkg
+Apply the file to the downloaded [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
