@@ -29,7 +29,7 @@ hackintosh
 ## Can't drive
 |  | Details |
 |:-: | :-:|
-|Sleep| AOAC ( not completely successful)|
+|Sleep| AOAC ( not completely successful)                                                                                        |
 |More|。。。|
 
 
