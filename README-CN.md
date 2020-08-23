@@ -10,8 +10,8 @@
 * 声卡: ALC285 和inter sst内麦
 * 内存: 16G DDR4X Micron 
 * BIOS: BYCN35WW
-* CFG lock: Disabled (changed)
-* DVMT: 64M (changed)
+* CFG lock: Disabled (changed)（重点！必须完成）
+* DVMT: 64M (changed)（重点！必须完成）
 
 
 
