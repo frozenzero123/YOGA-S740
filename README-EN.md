@@ -21,7 +21,7 @@ hackintosh
 |  | Details |
 |:-: | :-:|
 |Opencore|OpenCore 0.6.0 Debug|
-|Audio|  No work ——>built-in mic |
+|Audio|  only built-in mic no work |
 |Network| AX201 by（[itlwm](https://github.com/OpenIntelWireless/itlwm)）|
 |touchpad|MSFT0001 Hot patch by（[宪武](https://github.com/daliansky/OC-little)）|
 |GPU|There is a problem of starting the screen, but it is normal after startingby（[FireWolf](https://github.com/0xFireWolf/WhateverGreen)） |
