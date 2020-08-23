@@ -24,14 +24,12 @@
 |声卡|  内麦无法驱动 |
 |网卡| AX201 by（[itlwm](https://github.com/OpenIntelWireless/itlwm)）|
 |触控板|MSFT0001 Hot patch by（[宪武](https://github.com/daliansky/OC-little)）|
-
-
+|显卡|有启动花屏的问题，但是启动后正常 by（[FireWolf](https://github.com/0xFireWolf/WhateverGreen)） |
+|Fn按键|亮度调节请自行在设置内调成f11 f12 其余按键没有修改的必要|
 ## 暂时无法驱动
 |  | 细节 |
 |:-: | :-:|
-|显卡|Intel Iris Plus  G7 |
-|睡眠| AOAC ( 睡眠有问题，等显卡驱动再完成)|
-|Fn按键|亮度调节以及按键映射|
+|睡眠| AOAC ( 睡眠有问题，待完成)|
 |更多|。。。|
 
 
