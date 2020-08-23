@@ -22,9 +22,9 @@ hackintosh
 |:-: | :-:|
 |Opencore|OpenCore 0.6.0 Debug|
 |Audio|  only built-in mic no work |
-|Network| AX201 by（[itlwm](https://github.com/OpenIntelWireless/itlwm)）|
-|touchpad|MSFT0001 Hot patch by（[宪武](https://github.com/daliansky/OC-little)）|
-|GPU|There is a problem of starting the screen, but it is normal after startingby（[FireWolf](https://github.com/0xFireWolf/WhateverGreen)） |
+|Network| AX201 thanks（[itlwm](https://github.com/OpenIntelWireless/itlwm)）|
+|touchpad|MSFT0001 Hot patch thanks（[宪武](https://github.com/daliansky/OC-little)）|
+|GPU|There is a problem of starting the screen, but it is normal after startingby thanks（[FireWolf](https://github.com/0xFireWolf/WhateverGreen)） |
 |Fn Keys| Please adjust the brightness to f11 and f12 in the settings by yourself. There is no need to modify the remaining keys.|
 ## Can't drive
 |  | Details |
