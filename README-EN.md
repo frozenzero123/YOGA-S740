@@ -24,14 +24,12 @@ hackintosh
 |Audio|  No work ——>built-in mic |
 |Network| AX201 by（[itlwm](https://github.com/OpenIntelWireless/itlwm)）|
 |touchpad|MSFT0001 Hot patch by（[宪武](https://github.com/daliansky/OC-little)）|
-
-
+|GPU|There is a problem of starting the screen, but it is normal after startingby（[FireWolf](https://github.com/0xFireWolf/WhateverGreen)） |
+|Fn Keys| Please adjust the brightness to f11 and f12 in the settings by yourself. There is no need to modify the remaining keys.|
 ## Can't drive
 |  | Details |
 |:-: | :-:|
-|GPU|Intel Iris Plus  G7 |
 |Sleep| AOAC ( not completely successful)|
-|Fn Keys| Brightness adjustment and key mapping|
 |More|。。。|
 
 
