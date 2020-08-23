@@ -22,9 +22,9 @@
 |:-: | :-:|
 |OC版本|OpenCore 0.6.0 Debug|
 |声卡|  内麦无法驱动 |
-|网卡| AX201 by（[itlwm](https://github.com/OpenIntelWireless/itlwm)）|
-|触控板|MSFT0001 Hot patch by（[宪武](https://github.com/daliansky/OC-little)）|
-|显卡|有启动花屏的问题，但是启动后正常 by（[FireWolf](https://github.com/0xFireWolf/WhateverGreen)） |
+|网卡| AX201 感谢（[itlwm](https://github.com/OpenIntelWireless/itlwm)）|
+|触控板|MSFT0001 Hot patch 感谢（[宪武](https://github.com/daliansky/OC-little)）|
+|显卡|有启动花屏的问题，但是启动后正常 感谢（[FireWolf](https://github.com/0xFireWolf/WhateverGreen)） |
 |Fn按键|亮度调节请自行在设置内调成f11 f12 其余按键没有修改的必要|
 ## 暂时无法驱动
 |  | 细节 |
