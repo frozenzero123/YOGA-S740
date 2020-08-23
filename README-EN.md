@@ -10,8 +10,8 @@ hackintosh
 * Audio: ALC285 and inter sst mic
 * Memory: 16G DDR4X Micron 
 * BIOS: BYCN35WW
-* CFG lock: Disabled (changed)
-* DVMT: 64M (changed)
+* CFG lock: Disabled (changed)（important! Must be done！）
+* DVMT: 64M (changed)（important! Must be done！）
 
 
 
