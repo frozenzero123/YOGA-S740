@@ -34,4 +34,4 @@ hackintosh
 
 
 ## how to use
-Apply the file to the downloaded [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
+Apply the file to the downloaded [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)。At the same time, you need to check whether the contents in the config and kext/acpi folders correspond, and you also need to add platforminfo.
