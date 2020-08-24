@@ -1,5 +1,6 @@
 # YOGA-S740 hackintosh
 
+## （[中文](https://github.com/frozenzero123/YOGA-S740/blob/master/README.MD)）
 
 
 ## Device Information：
