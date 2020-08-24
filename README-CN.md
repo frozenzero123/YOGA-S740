@@ -13,7 +13,11 @@
 * CFG lock: Disabled (changed)（重点！必须完成）
 * DVMT: 64M (changed)（重点！必须完成）
 
+## 重点！重点！重点！
 
+* CFG Lock 必须解锁
+
+* DVMT设置必须64M或者更高
 
 
 
