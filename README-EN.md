@@ -1,8 +1,8 @@
-# YOGA-S740
-hackintosh
+# YOGA-S740 hackintosh
 
 
-##Device Information：
+
+## Device Information：
 * Equipment:Lenovo YOGA S740 14llL(China version)
 * Graphics: Iris Plus 940 （Iris Plus G7）
 * CPU: i7 1065G7
