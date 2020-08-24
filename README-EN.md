@@ -15,8 +15,8 @@ hackintosh
 
 ## Important!Important!Important!
 
-*CFG lock: must change（important! Must be done！）
-*DVMT: 64M or higher！（important! Must be done！）
+* CFG lock: must change（important! Must be done！）
+* DVMT: 64M or higher！（important! Must be done！）
 
 
 
