@@ -1,8 +1,8 @@
-# YOGA-S740
-黑苹果
+# YOGA-S740 黑苹果
 
 
-##设备信息：
+
+## 设备信息：
 * 设备:Lenovo YOGA S740 14llL(China version)
 * 显卡: Iris Plus 940 （Iris Plus G7）
 * 处理器: i7 1065G7
