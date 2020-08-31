@@ -26,7 +26,7 @@
 |  | 细节 |
 |:-: | :-:|
 |OC版本|OpenCore 0.6.0 Debug|
-|声卡|  内麦无法驱动 |
+|声卡|  内麦无法驱动(其余正常) |
 |网卡| AX201 感谢（[itlwm](https://github.com/OpenIntelWireless/itlwm)）|
 |触控板|MSFT0001 Hot patch 感谢（[宪武](https://github.com/daliansky/OC-little)）|
 |显卡|有启动花屏的问题，但是启动后正常 感谢（[FireWolf](https://github.com/0xFireWolf/WhateverGreen)） |
