@@ -26,7 +26,7 @@
 |:-: | :-:|
 |Opencore|OpenCore 0.6.0 Debug|
 |Audio|  only built-in mic no work（The rest are normal） |
-|Audio|  At present, it is found that AX201's built-in Bluetooth cannot output the mic level of AirPods pro |
+|Bluetooth|  At present, it is found that AX201's built-in Bluetooth cannot output the mic level of AirPods pro |
 |Network| AX201 thanks（[itlwm](https://github.com/OpenIntelWireless/itlwm)）|
 |touchpad|MSFT0001 Hot patch thanks（[宪武](https://github.com/daliansky/OC-little)）|
 |GPU|There is a problem of starting the screen, but it is normal after startingby thanks（[FireWolf](https://github.com/0xFireWolf/WhateverGreen)） |
