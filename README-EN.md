@@ -12,7 +12,8 @@
 * Memory: 16G DDR4X Micron 
 * BIOS: BYCN35WW
 * CFG lock: Disabled (changed)（important! Must be done！）
-* DVMT: 64M (changed)（important! Must be done！）
+* DVMT: 64M (changed)（The highest setting is best not to use -dvmt repair is because you
+                      can modify the hardware and modify the hardware without affecting win）
 
 ## Important!Important!Important!
 
