@@ -24,7 +24,7 @@
 ## Can drive
 |  | Details |
 |:-: | :-:|
-|Opencore|OpenCore 0.6.0 Debug|
+|Opencore|OpenCore 0.6.3 reless|
 |Audio|  only built-in mic no work（The rest are normal） |
 |Bluetooth|  At present, it is found that AX201's built-in Bluetooth cannot output the mic level of AirPods pro |
 |Network| AX201 thanks（[itlwm](https://github.com/OpenIntelWireless/itlwm)）|
