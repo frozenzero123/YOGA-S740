@@ -12,7 +12,7 @@
 * 内存: 16G DDR4X Micron 
 * BIOS: BYCN36WW
 * CFG lock: Disabled (changed)（重点！必须完成）
-* DVMT: 64M (changed)（重点！必须完成）
+* DVMT: 160M (changed)（重点！必须完成）
 
 ## 重点！重点！重点！
 
