@@ -12,13 +12,12 @@
 * Memory: 16G DDR4X Micron 
 * BIOS: BYCN35WW
 * CFG lock: Disabled (changed)（important! Must be done！）
-* DVMT: 64M (changed)（The highest setting is best not to use -dvmt repair is because you
-                      can modify the hardware and modify the hardware without affecting win）
+* DVMT: 160M (changed)（important! Must be done！）
 
 ## Important!Important!Important!
 
 * CFG lock: must change（important! Must be done！）
-* DVMT: 64M or higher！（important! Must be done！）
+* DVMT: 64M or higher！（The highest setting is best not to use -dvmt repair is because you can modify the hardware and modify the hardware without affecting win）
 
 
 
@@ -27,14 +26,15 @@
 |:-: | :-:|
 |Opencore|OpenCore 0.6.0 Debug|
 |Audio|  only built-in mic no work（The rest are normal） |
+|Audio|  At present, it is found that AX201's built-in Bluetooth cannot output the mic level of AirPods pro |
 |Network| AX201 thanks（[itlwm](https://github.com/OpenIntelWireless/itlwm)）|
 |touchpad|MSFT0001 Hot patch thanks（[宪武](https://github.com/daliansky/OC-little)）|
 |GPU|There is a problem of starting the screen, but it is normal after startingby thanks（[FireWolf](https://github.com/0xFireWolf/WhateverGreen)） |
-|Fn Keys| Please adjust the brightness to f11 and f12 in the settings by yourself. There is no need to modify the remaining keys.|
+|Fn Keys| Brightness and volume can be used normally|
 ## Can't drive
 |  | Details |
 |:-: | :-:|
-|Sleep| AOAC ( not completely successful)                                                                                        |
+|Sleep| AOAC ( There is a problem with sleep, and it cannot be completed temporarily. Consider the problem with the graphics card driver)  |                                                                                    |
 |More|。。。|
 
 
