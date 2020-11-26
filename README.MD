@@ -27,9 +27,9 @@
 |:-: | :-:|
 |OC版本|OpenCore 0.6.3 reless|
 |声卡|  内麦无法驱动(耳麦正常) |
-|蓝牙|  目前发现AX201自带蓝牙无法输出AirPods pro 的mic电平 |
-|网卡| AX201 感谢（[itlwm](https://github.com/OpenIntelWireless/itlwm)）|
-|触控板|MSFT0001 Hot patch 感谢（[宪武](https://github.com/daliansky/OC-little)）|
+|蓝牙|  目前发现AX201自带蓝牙无法输出AirPods pro 的mic电平 ,替换为博通网卡可解决|
+|网卡| AX201 感谢（[itlwm](https://github.com/OpenIntelWireless/itlwm)）或者自己更换博通网卡|
+|触控板|MSFT0001 Hot patch （终于实现了中断模式）感谢（[宪武](https://github.com/daliansky/OC-little)）和 触摸群Allen|
 |显卡|有启动花屏的问题，但是启动后正常 感谢（[FireWolf](https://github.com/0xFireWolf/WhateverGreen)） |
 |Fn按键|亮度和音量可以正常使用|
 ## 暂时无法驱动
@@ -41,5 +41,5 @@
 
 ## 如何使用
 将文件套用到下载的OC模板[OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
-同时，需要核对config与kext/acpi文件夹里的内容是否对应，还需自行添加三码等机型信息。
+同时，自行添加网卡信息。需要核对config与kext/acpi文件夹里的内容是否对应，还需自行添加三码等机型信息。
 或者下载reless版添加三码等信息直接使用。
