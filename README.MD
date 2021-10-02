@@ -27,8 +27,8 @@
 |:-: | :-:|
 |OC版本|OpenCore 0.7.3 reless|
 |声卡|  内麦无法驱动(耳麦正常) |
-|蓝牙|  目前发现AX201自带蓝牙无法输出AirPods pro 的mic电平 ,替换为博通网卡可解决|
-|网卡| AX201 感谢（[itlwm](https://github.com/OpenIntelWireless/itlwm)）或者自己更换博通网卡|
+|蓝牙|  AX201的mic已经可以正常使用 ,或者替换为博通网卡也可解决|
+|网卡|  AX201 感谢（[itlwm](https://github.com/OpenIntelWireless/itlwm)）或者自己更换博通网卡|
 |触控板|MSFT0001 Hot patch （终于实现了中断模式）感谢（[宪武](https://github.com/daliansky/OC-little)）和 触摸群Allen|
 |显卡|终于正常 感谢（ @0xFireWolf, also thanks @m0d16l14n1 and @kingo132)） |
 |Fn按键|亮度和音量可以正常使用|
