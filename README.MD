@@ -25,7 +25,7 @@
 ## 能够驱动
 |  | 细节 |
 |:-: | :-:|
-|OC版本|OpenCore 0.6.3 reless|
+|OC版本|OpenCore 0.7.3 reless|
 |声卡|  内麦无法驱动(耳麦正常) |
 |蓝牙|  目前发现AX201自带蓝牙无法输出AirPods pro 的mic电平 ,替换为博通网卡可解决|
 |网卡| AX201 感谢（[itlwm](https://github.com/OpenIntelWireless/itlwm)）或者自己更换博通网卡|
