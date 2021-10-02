@@ -26,7 +26,7 @@
 |:-: | :-:|
 |Opencore|OpenCore 0.7.3 reless|
 |Audio|  only built-in mic no work（The rest are normal） |
-|Bluetooth|  At present, it is found that AX201's built-in Bluetooth cannot output the mic level of AirPods pro ,Replace with Broadcom network card to solve|
+|Bluetooth|  The mic of AX201 can be used normally, or it can be solved by replacing it with a Broadcom network card|
 |Network| AX201 thanks（[itlwm](https://github.com/OpenIntelWireless/itlwm)）Or replace the Broadcom network card yourself|
 |touchpad|MSFT0001 Hot patch (Finally realized the interrupt mode)thanks（[宪武](https://github.com/daliansky/OC-little)）and Allen|
 |GPU|normal thanks（(by @0xFireWolf, also thanks @m0d16l14n1 and @kingo132)） |
