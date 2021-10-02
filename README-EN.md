@@ -24,17 +24,17 @@
 ## Can drive
 |  | Details |
 |:-: | :-:|
-|Opencore|OpenCore 0.6.3 reless|
+|Opencore|OpenCore 0.7.3 reless|
 |Audio|  only built-in mic no work（The rest are normal） |
 |Bluetooth|  At present, it is found that AX201's built-in Bluetooth cannot output the mic level of AirPods pro ,Replace with Broadcom network card to solve|
 |Network| AX201 thanks（[itlwm](https://github.com/OpenIntelWireless/itlwm)）Or replace the Broadcom network card yourself|
 |touchpad|MSFT0001 Hot patch (Finally realized the interrupt mode)thanks（[宪武](https://github.com/daliansky/OC-little)）and Allen|
-|GPU|There is a problem of starting the screen, but it is normal after startingby thanks（[FireWolf](https://github.com/0xFireWolf/WhateverGreen)） |
+|GPU|normal thanks（(by @0xFireWolf, also thanks @m0d16l14n1 and @kingo132)） |
 |Fn Keys| Brightness and volume can be used normally|
 ## Can't drive
 |  | Details |
 |:-: | :-:|
-|Sleep| AOAC ( There is a problem with sleep, and it cannot be completed temporarily. Consider the problem with the graphics card driver)  |                                                                                    |
+|Sleep| AOAC ( There is a problem with sleep, So far, it should be repairable, and those who have the ability can improve it by themselves)  |                                                                                    |
 |More|。。。|
 
 
