@@ -30,12 +30,12 @@
 |蓝牙|  目前发现AX201自带蓝牙无法输出AirPods pro 的mic电平 ,替换为博通网卡可解决|
 |网卡| AX201 感谢（[itlwm](https://github.com/OpenIntelWireless/itlwm)）或者自己更换博通网卡|
 |触控板|MSFT0001 Hot patch （终于实现了中断模式）感谢（[宪武](https://github.com/daliansky/OC-little)）和 触摸群Allen|
-|显卡|有启动花屏的问题，但是启动后正常 感谢（[FireWolf](https://github.com/0xFireWolf/WhateverGreen)） |
+|显卡|终于正常 感谢（ @0xFireWolf, also thanks @m0d16l14n1 and @kingo132)） |
 |Fn按键|亮度和音量可以正常使用|
 ## 暂时无法驱动
 |  | 细节 |
 |:-: | :-:|
-|睡眠| AOAC ( 睡眠有问题，暂时无法完成了，考虑和显卡驱动有关)|
+|睡眠| AOAC ( 睡眠有问题，但是似乎可以完成，有能力的人可以自行完善)|
 |更多|。。。|
 
 
