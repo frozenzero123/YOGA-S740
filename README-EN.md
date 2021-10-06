@@ -18,7 +18,7 @@
 
 * CFG lock: must change（important! Must be done！）
 * DVMT: 64M or higher！（The highest setting is best not to use -dvmt repair is because you can modify the hardware and modify the hardware without affecting win）
-*The terminal enters the following content to control the sleep status and achieve the purpose of saving power [source](https://dortania.github.io/OpenCore-Post-Install/universal/sleep.html#preparations)
+* The terminal enters the following content to control the sleep status and achieve the purpose of saving power [source](https://dortania.github.io/OpenCore-Post-Install/universal/sleep.html#preparations)
 ```
 sudo pmset autopoweroff 0
 sudo pmset powernap 0
