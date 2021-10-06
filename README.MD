@@ -16,9 +16,10 @@
 
 ## 重点！重点！重点！
 
-* CFG Lock 必须解锁
+* CFG Lock 必须解锁(或者开启AppleCpuPmCfgLock和AppleXcpmCfgLock，但这只是暂时的)
 
-* DVMT设置必须64M或者更高（设置最高最好之所以不使用-dvmt修复是因为能修改硬件就修改硬件不影响win）
+* DVMT设置必须64M或者更高（config内添加了相关设定应该可以不予更改，但还是建议调整dvmt）
+
 
 * 终端输入以下内容来控制睡眠状况，达到节省电量的目的 [来源](https://dortania.github.io/OpenCore-Post-Install/universal/sleep.html#preparations)
 ```
