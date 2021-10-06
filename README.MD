@@ -28,7 +28,7 @@ sudo pmset standby 0
 sudo pmset proximitywake 0
 sudo pmset tcpkeepalive 0
 ```
-
+[来源](https://dortania.github.io/OpenCore-Post-Install/universal/sleep.html#preparations)
 
 ## 能够驱动
 |  | 细节 |
