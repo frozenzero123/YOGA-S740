@@ -42,7 +42,7 @@ sudo pmset tcpkeepalive 0
 ## Can't drive
 |  | Details |
 |:-: | :-:|
-|Keyboard backlight ｜ The keyboard backlight cannot be turned off automatically, you need to manually control the turn off (especially sleep) fn+spacebar｜
+|Keyboard backlight| The keyboard backlight cannot be turned off automatically, you need to manually control the turn off (especially sleep) fn+spacebar｜
 |More|。。。|
 
 
