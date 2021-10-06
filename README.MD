@@ -21,14 +21,13 @@
 * DVMT设置必须64M或者更高（设置最高最好之所以不使用-dvmt修复是因为能修改硬件就修改硬件不影响win）
 
 *终端输入以下内容来控制睡眠状况，达到节省电量的目的
-`
+```
 sudo pmset autopoweroff 0
 sudo pmset powernap 0
 sudo pmset standby 0
 sudo pmset proximitywake 0
 sudo pmset tcpkeepalive 0
-
-`
+```
 
 
 ## 能够驱动
