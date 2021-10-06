@@ -18,7 +18,14 @@
 
 * CFG lock: must change（important! Must be done！）
 * DVMT: 64M or higher！（The highest setting is best not to use -dvmt repair is because you can modify the hardware and modify the hardware without affecting win）
-
+*The terminal enters the following content to control the sleep status and achieve the purpose of saving power [来源](https://dortania.github.io/OpenCore-Post-Install/universal/sleep.html#preparations)
+```
+sudo pmset autopoweroff 0
+sudo pmset powernap 0
+sudo pmset standby 0
+sudo pmset proximitywake 0
+sudo pmset tcpkeepalive 0
+```
 
 
 ## Can drive
@@ -31,10 +38,11 @@
 |touchpad|MSFT0001 Hot patch (Finally realized the interrupt mode)thanks（[宪武](https://github.com/daliansky/OC-little)）and Allen|
 |GPU|normal thanks（(by @0xFireWolf, also thanks @m0d16l14n1 and @kingo132)） |
 |Fn Keys| Brightness and volume can be used normally|
+|Sleep| aoac sleep Kingston A2000 sleep power consumption 1 hour 3% related machine friends can test by themselves
 ## Can't drive
 |  | Details |
 |:-: | :-:|
-|Sleep| AOAC ( There is a problem with sleep, So far, it should be repairable, and those who have the ability can improve it by themselves)  |                                                                                    |
+|Keyboard backlight｜The keyboard backlight cannot be turned off automatically, you need to manually control the turn off (especially sleep) fn+spacebar｜
 |More|。。。|
 
 
