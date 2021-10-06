@@ -20,7 +20,7 @@
 
 * DVMT设置必须64M或者更高（设置最高最好之所以不使用-dvmt修复是因为能修改硬件就修改硬件不影响win）
 
-*终端输入以下内容来控制睡眠状况，达到节省电量的目的[来源](https://dortania.github.io/OpenCore-Post-Install/universal/sleep.html#preparations)
+*终端输入以下内容来控制睡眠状况，达到节省电量的目的 [来源](https://dortania.github.io/OpenCore-Post-Install/universal/sleep.html#preparations)
 ```
 sudo pmset autopoweroff 0
 sudo pmset powernap 0
@@ -40,7 +40,7 @@ sudo pmset tcpkeepalive 0
 |触控板|MSFT0001 Hot patch （终于实现了中断模式）感谢（[宪武](https://github.com/daliansky/OC-little)）和 触摸群Allen|
 |显卡|终于正常 感谢（ @0xFireWolf, also thanks @m0d16l14n1 and @kingo132)） |
 |Fn按键|亮度和音量可以正常使用|
-|睡眠|aoac睡眠 外置ssd下 睡眠耗电半小时2%(外置ssd平均一小时5% 内置ssd应该会低一些)不清楚内建ssd耗电如何相关机友可自行测试|
+|睡眠|aoac睡眠 金士顿A2000 睡眠耗电1小时3% 相关机友可自行测试|
 ## 暂时无法驱动
 |  | 细节 |
 |:-: | :-:|
