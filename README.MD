@@ -48,6 +48,8 @@ sudo pmset tcpkeepalive 0
 |键盘背光|键盘背光无法自动关闭 需要手动控制关闭（尤其是睡眠） fn+空格键
 |更多|。。。|
 
+<img width="642" alt="截屏2021-10-07 10 26 54" src="https://user-images.githubusercontent.com/52648473/136310796-36a402ca-d9aa-4bde-a4bf-1573759e07cb.png">
+
 
 ## 如何使用
 将文件套用到下载的OC模板[OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
