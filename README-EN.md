@@ -45,6 +45,8 @@ sudo pmset tcpkeepalive 0
 |Keyboard backlight| The keyboard backlight cannot be turned off automatically, you need to manually control the turn off (especially sleep) fn+spacebar｜
 |More|。。。|
 
+<img width="642" alt="截屏2021-10-07 10 26 54" src="https://user-images.githubusercontent.com/52648473/136310838-b140e0e1-a73f-4bff-9a69-ca1733ac6790.png">
+
 
 ## how to use
 Apply the file to the downloaded [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)。At the same time, you need to check whether the contents in the config and kext/acpi folders correspond, and you also need to add platforminfo.Or download the reless version to add three codes and other information to use directly
