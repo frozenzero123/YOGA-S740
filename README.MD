@@ -42,13 +42,17 @@ sudo pmset tcpkeepalive 0
 |显卡|终于正常 感谢（ @0xFireWolf, also thanks @m0d16l14n1 and @kingo132)） |
 |Fn按键|亮度和音量可以正常使用|
 |睡眠|aoac睡眠 金士顿A2000 睡眠耗电1小时3% 相关机友可自行测试|
+|开盖亮屏|在注入修正后的ecdt后，实现了开盖亮屏的功能但是也使得亮度快捷键失效了|
 ## 暂时无法驱动
 |  | 细节 |
 |:-: | :-:|
-|键盘背光|键盘背光无法自动关闭 需要手动控制关闭（尤其是睡眠） fn+空格键
+|键盘背光|键盘背光无法自动关闭 需要使用fn+空格键手动控制关闭（尤其是合盖时)｜
+|亮度快捷键|修正ecdt导致亮度快捷键无法使用 需要使用fn+f11、f12手动控制亮度（设置里设定)｜
 |更多|。。。|
+<img width="666" alt="截屏2022-01-28 13 24 44" src="https://user-images.githubusercontent.com/52648473/151492164-58775e61-0eb8-4947-a088-fff304dabd39.png">
 
-<img width="642" alt="截屏2021-10-07 10 26 54" src="https://user-images.githubusercontent.com/52648473/136310796-36a402ca-d9aa-4bde-a4bf-1573759e07cb.png">
+<img width="587" alt="截屏2022-01-28 13 27 25" src="https://user-images.githubusercontent.com/52648473/151492271-8452c63e-4b79-4755-a80e-d0524ad32393.png">
+
 
 
 ## 如何使用
