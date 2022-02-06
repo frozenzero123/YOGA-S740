@@ -56,7 +56,9 @@ sudo pmset tcpkeepalive 0
 
 
 ## 如何使用
-｜将文件套用到下载的OC模板[OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)｜
-｜同时，自行添加网卡信息。需要核对config与kext/acpi文件夹里的内容是否对应，还需自行添加三码等机型信息。｜
-｜或者下载（[Releases](https://github.com/frozenzero123/YOGA-S740/releases)）版添加三码等信息直接使用。｜
-｜最后：把分享的东西拿来售卖的无良奸商死全家！｜
+将文件套用到下载的OC模板[OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
+同时，自行添加网卡信息。需要核对config与kext/acpi文件夹里的内容是否对应，还需自行添加三码等机型信息。
+或者下载（[Releases](https://github.com/frozenzero123/YOGA-S740/releases)）版添加三码等信息直接使用。
+
+## 附言
+分享的东西拿来售卖的无良奸商死全家！
