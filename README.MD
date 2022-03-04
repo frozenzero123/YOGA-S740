@@ -38,7 +38,7 @@ sudo pmset tcpkeepalive 0
 |声卡|  内麦无法驱动(耳麦正常，使用id88外置mic，如不需要可用id61) |
 |蓝牙|  AX201已经可以正常使用 ,或者替换为博通网卡也可解决|
 |网卡|  AX201 感谢（[itlwm](https://github.com/OpenIntelWireless/itlwm)）或者自己更换博通网卡|
-|触控板|MSFT0001 Hot patch （终于实现了中断模式）感谢（[宪武](https://github.com/daliansky/OC-little)）和 触摸群Allen|
+|触控板|MSFT0001 Hot patch （终于实现了中断模式）不要更新最新版voodoo2.7触控板会不能使用 感谢（[宪武](https://github.com/daliansky/OC-little)）和 触摸群Allen|
 |显卡|终于正常 感谢（ @0xFireWolf, also thanks @m0d16l14n1 and @kingo132)） |
 |Fn按键|音量可以正常使用，添加yogasmc后可用实现一些fn快捷键 但是亮度快捷键失效|
 |睡眠|aoac睡眠 金士顿A2000（推荐三星ssd） 睡眠耗电1小时3% 相关机友可自行测试|
