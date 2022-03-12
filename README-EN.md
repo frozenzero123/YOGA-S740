@@ -37,16 +37,14 @@ sudo pmset tcpkeepalive 0
 |Network| AX201 thanks（[itlwm](https://github.com/OpenIntelWireless/itlwm)）Or replace the Broadcom network card yourself|
 |touchpad|MSFT0001 Hot patch (Finally realized the interrupt mode)thanks（[宪武](https://github.com/daliansky/OC-little)）and Allen|
 |GPU|normal thanks（(by @0xFireWolf, also thanks @m0d16l14n1 and @kingo132)） |
-|Fn Keys| Brightness and volume can be used normally|
+|Fn Keys| use yogasmc it worked|
 |Sleep| aoac sleep Kingston A2000 sleep power consumption 1 hour 3% related machine friends can test by themselves
-|Open the cover and brighten the screen|After injecting the corrected ecdt,but it also makes the brightness shortcut key invalid|
+|Open the cover and brighten the screen|After injecting the corrected ecdt|
 ## Can't drive
 |  | Details |
 |:-: | :-:|
-|Keyboard backlight| The keyboard backlight cannot be turned off automatically,need to use fn+spacebar  to turn off (especially when the lid is closed｜
-|Brightness shortcut key| you need to use fn+f11, f12 to manually control the brightness (set in the settings)｜
 |More|。。。|
-<img width="666" alt="截屏2022-01-28 13 24 44" src="https://user-images.githubusercontent.com/52648473/151494656-f86cc64e-cf6d-4463-b254-4253bd272567.png">
+
 <img width="587" alt="截屏2022-01-28 13 27 25" src="https://user-images.githubusercontent.com/52648473/151494677-0cc6f563-0f05-4cc2-81c1-e4b7db17f296.png">
 
 
