@@ -5,7 +5,7 @@
 
 ## 设备信息：
 * 设备:Lenovo YOGA S740 14llL(China version)
-* 显卡: Iris Plus 940 （Iris Plus G7）
+* 显卡: Iris Plus 940 （Iris Plus G7）+MX250(不能驱动)
 * 处理器: i7 1065G7
 * 硬盘: intel 545s 外置ssd (屏蔽了pm981a)，金士顿A2000
 * 声卡: ALC285 和inter sst内麦 外置mic
