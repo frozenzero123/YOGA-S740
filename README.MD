@@ -34,7 +34,7 @@ sudo pmset tcpkeepalive 0
 ## 能够驱动
 |  | 细节 |
 |:-: | :-:|
-|OC版本|OpenCore 0.7.7 reless|
+|OC版本|OpenCore 0.7.9 reless|
 |声卡|  内麦无法驱动(耳麦正常，扬声器正常) |
 |蓝牙|  AX201已经可以正常使用 ,或者替换为博通网卡也可解决|
 |网卡|  AX201 感谢（[itlwm](https://github.com/OpenIntelWireless/itlwm)）或者自己更换博通网卡|
