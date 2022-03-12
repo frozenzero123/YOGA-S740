@@ -48,7 +48,7 @@ sudo pmset tcpkeepalive 0
 |:-: | :-:|
 |
 |更多|。。。|
-<img width="666" alt="截屏2022-01-28 13 24 44" src="https://user-images.githubusercontent.com/52648473/151492164-58775e61-0eb8-4947-a088-fff304dabd39.png">
+
 
 <img width="587" alt="截屏2022-01-28 13 27 25" src="https://user-images.githubusercontent.com/52648473/151492271-8452c63e-4b79-4755-a80e-d0524ad32393.png">
 
