@@ -5,7 +5,7 @@
 
 ## Device Information：
 * Equipment:Lenovo YOGA S740 14llL(China version)
-* Graphics: Iris Plus 940 （Iris Plus G7）
+* Graphics: Iris Plus 940 （Iris Plus G7）+MX250(no working)
 * CPU: i7 1065G7
 * SSD: kingston A2000 NVMe SSD 1T (after pm981a replacement)
 * Audio: ALC285 and inter sst mic
