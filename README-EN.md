@@ -31,7 +31,7 @@ sudo pmset tcpkeepalive 0
 ## Can drive
 |  | Details |
 |:-: | :-:|
-|Opencore|OpenCore 0.7.3 reless|
+|Opencore|OpenCore 0.7.9 reless|
 |Audio|  only built-in mic no work（The rest are normal） |
 |Bluetooth|  The mic of AX201 can be used normally, or it can be solved by replacing it with a Broadcom network card|
 |Network| AX201 thanks（[itlwm](https://github.com/OpenIntelWireless/itlwm)）Or replace the Broadcom network card yourself|
