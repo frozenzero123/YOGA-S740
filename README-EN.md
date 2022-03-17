@@ -35,7 +35,7 @@ sudo pmset tcpkeepalive 0
 |Audio|  only built-in mic no work（The rest are normal） |
 |Bluetooth|  The mic of AX201 can be used normally, or it can be solved by replacing it with a Broadcom network card|
 |Network| AX201 thanks（[itlwm](https://github.com/OpenIntelWireless/itlwm)）Or replace the Broadcom network card yourself|
-|touchpad|MSFT0001 Hot patch (Finally realized the interrupt mode)thanks（[宪武](https://github.com/daliansky/OC-little)）and Allen|
+|touchpad｜ interrupt mode|
 |GPU|normal thanks（(by @0xFireWolf, also thanks @m0d16l14n1 and @kingo132)） |
 |Fn Keys| use yogasmc it worked|
 |Sleep| aoac sleep Kingston A2000 sleep power consumption 1 hour 3% related machine friends can test by themselves
@@ -43,6 +43,7 @@ sudo pmset tcpkeepalive 0
 ## Can't drive
 |  | Details |
 |:-: | :-:|
+|touchpad｜Although the GPIO interrupt mode can be used but will cause the bright screen to fail and there will be some additional problems under Win.｜
 |More|。。。|
 
 <img width="587" alt="截屏2022-01-28 13 27 25" src="https://user-images.githubusercontent.com/52648473/151494677-0cc6f563-0f05-4cc2-81c1-e4b7db17f296.png">
