@@ -39,7 +39,7 @@ sudo pmset tcpkeepalive 0
 |GPU|normal thanks（(by @0xFireWolf, also thanks @m0d16l14n1 and @kingo132)） |
 |Fn Keys| use yogasmc it worked|
 |Sleep| aoac sleep Kingston A2000 sleep power consumption 1 hour 3% related machine friends can test by themselves
-|Open the cover and brighten the screen|After injecting the corrected ecdt|
+|Open the cover and brighten the screen|After the revised ECDT, the function of opening the bright screen is realized, and the touch panel is in polling mode.|
 ## Can't drive
 |  | Details |
 |:-: | :-:|
